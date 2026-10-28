@@ -4,6 +4,13 @@ A lightweight Python command-line utility for collecting basic system and networ
 
 > **Safety and scope:** This tool performs read-only checks. It collects basic local system information, resolves a supplied hostname, optionally sends one ping, and attempts TCP connections only to ports explicitly provided by the user. It does not scan port ranges, change system settings, or transmit application data. Only test hosts and ports you are authorized to access.
 
+
+
+## Demo
+
+![IT Troubleshooting Toolkit running in PowerShell](tool-demo.png)
+
+
 ## Features
 
 - Local OS, architecture, hostname, and Python version summary
